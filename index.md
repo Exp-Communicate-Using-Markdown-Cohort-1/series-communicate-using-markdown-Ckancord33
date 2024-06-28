@@ -9,3 +9,7 @@ resultado = num1 + num2
 print("El resultado es: ", restultado, "(no se que mierda hago con mi vida)")
 
 ```
+Que he hecho con mi vida: 
+- [x] Nada
+- [x] Absolutamente nada
+- [ ] matarme (Porfavor)
